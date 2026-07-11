@@ -2,5 +2,5 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N09UZWA.png",TSN3
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yTl9XIh.png" ,demo link
+#EXTINF:-1 tvg-logo="" ,demo link
 https://sonymtmnew.akamaized.net/hls/live/20000292/cricodi1107/ENG/master.m3u8?hdnea=exp=1783808009~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d362e990b3dc6fc4eb89312442cfa2d1e6ac6d44e3e87bf1589174852655b0d8
